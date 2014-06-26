@@ -8,5 +8,5 @@ Following column types are natively available in this bundle
 * [Money](columns/money.md)
 * [Number](columns/number.md)
 * [Entity](columns/entity.md)
+* [Collection](columns/collection.md)
 * [Action](columns/action.md)
-
